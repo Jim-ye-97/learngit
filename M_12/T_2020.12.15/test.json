@@ -1,0 +1,38 @@
+[
+  {
+   "OTHER": "code",
+   "NAME": "whc",
+   "LEN": 100,
+   "ID": "01-0001"
+  },
+  {
+   "OTHER": "house",
+   "NAME": "ikd",
+   "LEN": 200,
+   "ID": "01-0002"
+  },
+  {
+   "OTHER": "thank",
+   "NAME": "qxf",
+   "LEN": 300,
+   "ID": "01-0003"
+  },
+  {
+   "OTHER": "music",
+   "NAME": "kmn",
+   "LEN": 400,
+   "ID": "01-0004"
+  },
+  {
+   "OTHER": "big",
+   "NAME": "vbf",
+   "LEN": 500,
+   "ID": "01-0005"
+  },
+  {
+   "OTHER": "over",
+   "NAME": "wsr",
+   "LEN": 600,
+   "ID": "01-0006"
+  }
+]
